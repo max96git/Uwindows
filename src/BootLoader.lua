@@ -4,7 +4,7 @@ local TweenService = game:GetService("TweenService")
 local GUI = script:WaitForChild("01")
 local plr = Players.LocalPlayer
 
-GUI.Parent = plr.PlayerGui
+GUI:Clone().Parent = plr.PlayerGui -- the fix
 
 ReplicatedFirst:RemoveDefaultLoadingScreen()
 
