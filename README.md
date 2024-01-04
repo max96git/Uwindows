@@ -8,4 +8,6 @@ make windows-like loading screens
 - **BootImage**: Icon that shows on the loading screen
 - **BootLoader**: Required Boot Script
 - **Circle**: Loading circle
+- ## Credits/Contributors
+- @gamma-sigma-beep
 
