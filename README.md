@@ -10,7 +10,7 @@ make windows-like loading screens
 - **Circle**: Loading circle
 # Credits/Contributors
 - @gamma-sigma-beep
-- # Site
+# Site
 https://max96git.github.io/Uwindows/
 (early alpha)
 
